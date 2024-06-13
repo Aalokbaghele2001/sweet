@@ -1,0 +1,272 @@
+{ "sweet":[
+  {
+    "id": 1,
+    "dish": "Gulab Jamun",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Gulab_Jamun.jpg",
+    "price": 90,
+    "type": "Vegetarian",
+    "desc": "Soft and spongy deep-fried dough balls soaked in a sweet sugar syrup.",
+    "rating": 4.9,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Sweet Palace",
+      "address": "123 Sweet Avenue, Mumbai",
+      "timing": "10:00 AM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on Wednesdays",
+      "rating": 4.8,
+      "about": "Sweet Palace offers a wide range of traditional Indian sweets, perfect for any celebration."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Rasgulla",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Rasgulla.jpg",
+    "price": 80,
+    "type": "Vegetarian",
+    "desc": "Spongy cheese balls soaked in a light sugar syrup, a Bengali delicacy.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Bengal Sweets",
+      "address": "456 Sweet Street, Kolkata",
+      "timing": "9:00 AM - 9:00 PM",
+      "offers": "10% off for first-time customers",
+      "rating": 4.7,
+      "about": "Bengal Sweets specializes in traditional Bengali sweets and desserts."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Jalebi",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Jalebi.jpg",
+    "price": 70,
+    "type": "Vegetarian",
+    "desc": "Crispy and juicy spiral-shaped sweets soaked in sugar syrup.",
+    "rating": 4.7,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Jalebi Junction",
+      "address": "789 Crispy Lane, Delhi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Free sample with every purchase",
+      "rating": 4.6,
+      "about": "Jalebi Junction offers a variety of crispy and delicious jalebis made fresh every day."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Ladoo",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Ladoo.jpg",
+    "price": 50,
+    "type": "Vegetarian",
+    "desc": "Round-shaped sweets made with gram flour, sugar, and ghee.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Ladoo House",
+      "address": "234 Sweet Road, Chennai",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "15% off on bulk orders",
+      "rating": 4.7,
+      "about": "Ladoo House offers a variety of ladoos, each made with traditional recipes and high-quality ingredients."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Kaju Katli",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Kaju_Katli.jpg",
+    "price": 150,
+    "type": "Vegetarian",
+    "desc": "Diamond-shaped cashew nut fudge, a rich and delicious sweet treat.",
+    "rating": 4.9,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Royal Sweets",
+      "address": "567 Royal Street, Pune",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "Free tasting samples",
+      "rating": 4.8,
+      "about": "Royal Sweets is known for its premium quality sweets and exceptional service."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Barfi",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Barfi.jpg",
+    "price": 100,
+    "type": "Vegetarian",
+    "desc": "A sweet confectionery made from condensed milk and sugar, often garnished with nuts.",
+    "rating": 4.7,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Sweet Delights",
+      "address": "890 Sweet Drive, Hyderabad",
+      "timing": "9:00 AM - 9:00 PM",
+      "offers": "10% off for students",
+      "rating": 4.6,
+      "about": "Sweet Delights offers a wide range of traditional and modern Indian sweets."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Peda",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Peda.jpg",
+    "price": 60,
+    "type": "Vegetarian",
+    "desc": "Soft, creamy, and sweet, made with condensed milk and flavored with cardamom.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Peda Palace",
+      "address": "123 Peda Avenue, Bangalore",
+      "timing": "10:00 AM - 10:00 PM",
+      "offers": "Buy 1 Get 1 Free on Fridays",
+      "rating": 4.7,
+      "about": "Peda Palace offers a variety of peda flavors, each made with the finest ingredients."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Rasmalai",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Rasmalai.jpg",
+    "price": 120,
+    "type": "Vegetarian",
+    "desc": "Soft cheese balls soaked in sweet, flavored milk, garnished with nuts.",
+    "rating": 4.9,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Milk & Honey",
+      "address": "456 Dairy Lane, Jaipur",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.8,
+      "about": "Milk & Honey specializes in dairy-based sweets and desserts, offering the best of traditional flavors."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Mysore Pak",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Mysore_Pak.jpg",
+    "price": 100,
+    "type": "Vegetarian",
+    "desc": "A rich and buttery sweet made with gram flour, sugar, and ghee, originating from Mysore.",
+    "rating": 4.7,
+    "category": "sweet",
+    "restaurant": {
+      "name": "South Sweets",
+      "address": "789 South Street, Mysore",
+      "timing": "9:00 AM - 9:00 PM",
+      "offers": "Free sample with every purchase",
+      "rating": 4.6,
+      "about": "South Sweets offers a variety of South Indian sweets, each made with authentic recipes."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Sandesh",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Sandesh.jpg",
+    "price": 110,
+    "type": "Vegetarian",
+    "desc": "A Bengali delicacy made with fresh paneer and flavored with cardamom and saffron.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Bengal Treats",
+      "address": "123 Bengali Road, Kolkata",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "10% off for first-time customers",
+      "rating": 4.7,
+      "about": "Bengal Treats specializes in traditional Bengali sweets, offering a taste of Bengal's rich culinary heritage."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Kheer",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Kheer.jpg",
+    "price": 80,
+    "type": "Vegetarian",
+    "desc": "A creamy rice pudding made with milk, rice, sugar, and flavored with cardamom and saffron.",
+    "rating": 4.7,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Dessert Delight",
+      "address": "567 Dessert Lane, Lucknow",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Free topping with any kheer",
+      "rating": 4.6,
+      "about": "Dessert Delight offers a variety of traditional Indian desserts, each made with love and care."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Shrikhand",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Shrikhand.jpg",
+    "price": 90,
+    "type": "Vegetarian",
+    "desc": "A sweet and creamy yogurt-based dessert, flavored with saffron and cardamom.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Yogurt Haven",
+      "address": "123 Yogurt Street, Pune",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "Buy 1 Get 1 Free on Mondays",
+      "rating": 4.7,
+      "about": "Yogurt Haven specializes in yogurt-based desserts, offering a variety of flavors and styles."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Kulfi",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Kulfi.jpg",
+    "price": 70,
+    "type": "Vegetarian",
+    "desc": "A traditional Indian ice cream made with thickened milk, flavored with cardamom, saffron, and nuts.",
+    "rating": 4.9,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Kulfi Corner",
+      "address": "456 Ice Cream Lane, Mumbai",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Free sample with every purchase",
+      "rating": 4.8,
+      "about": "Kulfi Corner offers a variety of kulfi flavors, each made with the finest ingredients."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Puran Poli",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Puran_Poli.jpg",
+    "price": 60,
+    "type": "Vegetarian",
+    "desc": "A sweet flatbread stuffed with a mixture of jaggery and split yellow gram, a Maharashtrian delicacy.",
+    "rating": 4.7,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Maharashtrian Treats",
+      "address": "789 Sweet Street, Mumbai",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "10% off on weekends",
+      "rating": 4.6,
+      "about": "Maharashtrian Treats offers a variety of traditional Maharashtrian sweets and snacks."
+    }
+  },
+  {
+    "id": 15,
+    "dish": "Halwa",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sushmita/Halwa.jpg",
+    "price": 50,
+    "type": "Vegetarian",
+    "desc": "A dense, sweet confection made with flour, sugar, and ghee, often flavored with cardamom.",
+    "rating": 4.8,
+    "category": "sweet",
+    "restaurant": {
+      "name": "Halwa Heaven",
+      "address": "123 Sweet Lane, Delhi",
+      "timing": "10:00 AM - 9:00 PM",
+      "offers": "Buy 1 Get 1 Free on Tuesdays",
+      "rating": 4.7,
+      "about": "Halwa Heaven offers a variety of halwa flavors, each made with traditional recipes and high-quality ingredients."
+    }
+  }
+]}
